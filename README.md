@@ -4,7 +4,7 @@
 
 ###level-3 heading
 
-* text in bold *
+** text in bold **
 
   _ text in italic _
 
